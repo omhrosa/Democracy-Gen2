@@ -1,48 +1,47 @@
-# Democracy Gen 2 – AI-Enhanced Global Governance  
+# Democracy Gen 2 – AI-Enhanced Global Governance
 
-A vision for the future of democracy: a **cryptographically secure, federated AI system** that encodes humanity’s collective will to guide governance through AI-selected human representatives.  
-The system preserves **freedom, ethical integrity, minority protection, and global inclusivity**, redefining democracy from competitive elections to collective synthesis of values and traits, operationalized through AI.  
+A vision for the **next generation of democracy**: a **cryptographically secure, federated AI system** that encodes humanity’s collective will to guide governance through AI-selected human representatives.  
+
+This model preserves **freedom, ethical integrity, minority protection, and global inclusivity**, redefining democracy from competitive elections to **collective synthesis of values and traits operationalized through AI**.  
 
 ---
 
-## 🌍 Core Principle  
+## 🌍 Core Principle
 AI is a **force to realize humanity’s will, not a ruler**.  
-It continuously learns from humans, provides foresight, scenario analysis, and ethical guidance — while leaving ultimate authority with **human representatives**.  
+It continuously learns from people, provides foresight and ethical guidance, but leaves **ultimate authority with human representatives**.
 
 ---
 
-## 📖 Full Proposal  
-The complete detailed specification is available here:  
-👉 [Full Proposal](proposal.md)  
+## 📖 Full Proposal
+The full detailed specification is available here:  
+👉 [proposal.md](proposal.md)
 
 ---
 
-## ✨ Key Features  
-- **Federated AI Training** with national/regional nodes  
-- **Mass citizen interaction** through secure, authenticated devices  
-- **Council of human representatives** selected by AI based on traits chosen by populations  
+## ✨ Key Features
+- **Federated AI Training** with national/regional nodes for cultural and legal compliance  
+- **Mass micro-interactions** where citizens guide policy through secure devices  
+- **Human council selection** based on traits chosen by populations  
 - **Forecasting & consultation** for crises, risks, and systemic foresight  
 - **Transparent policy communication** directly to citizens  
-- **Ethical & operational safeguards** including freedom preservation, minority protection, and immutable encoding of collective human will  
+- **Safeguards**: freedom preservation, minority protection, immutable encoding of human will  
 
 ---
 
-## 🛡️ Guiding Principles  
+## 🛡️ Guiding Principles
 - **Freedom Preservation**: AI advises, humans decide  
 - **Minority Protection**: Explicit safeguards against systemic neglect  
-- **Global Representation**: Proportional and inclusive  
-- **Immutable Human Will Encoding**: Reinforcement learning tied to population input  
+- **Global Representation**: Proportional and inclusive, minimum 51% participation per node  
+- **Immutable Human Will Encoding**: Reinforcement learning permanently tied to human input  
 
 ---
 
-## 📜 License  
-This work is released under the [MIT License](LICENSE).  
-It is intended as an **open vision and framework** for researchers, policymakers, and technologists to refine and evolve.  
+## 📜 License
+Released under the [MIT License](LICENSE).  
+This project is a **blueprint for exploration**, not an implementation.  
 
 ---
 
-## 🤝 Contribution  
-This repository is not a final implementation, but a **blueprint for exploration**.  
-Contributions, critiques, and alternative pathways are welcome — the goal is to **co-create the future of governance**.  
-
----
+## 🤝 Contribution
+Contributions, critiques, and refinements are welcome.  
+The goal is to **co-create a framework for the future of global governance**.  
