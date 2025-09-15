@@ -1,5 +1,7 @@
 # Democracy Gen 2 – AI-Enhanced Global Governance
 
+Authors: Omiros Ampatzis and Chatgpt
+
 ## Core Concept
 A **cryptographically secure, federated AI system** that encodes humanity’s collective will to guide governance through **AI-selected human representatives**.  
 
