@@ -1,47 +1,36 @@
-# Democracy Gen 2 – AI-Enhanced Global Governance
+# Democracy Gen 2
 
-A vision for the **next generation of democracy**: a **cryptographically secure, federated AI system** that encodes humanity’s collective will to guide governance through AI-selected human representatives.  
+A conceptual proposal for an AI-enhanced governance system in which artificial intelligence helps aggregate public preferences, model consequences, and select human representatives while ultimate political authority remains human.
 
-This model preserves **freedom, ethical integrity, minority protection, and global inclusivity**, redefining democracy from competitive elections to **collective synthesis of values and traits operationalized through AI**.  
+## Core idea
 
----
+The framework replaces conventional electoral competition with a federated system that continuously gathers authenticated citizen input, trains regional AI nodes on collective preferences, and uses AI to support the selection of human representatives whose traits best match population-defined priorities.
 
-## 🌍 Core Principle
-AI is a **force to realize humanity’s will, not a ruler**.  
-It continuously learns from people, provides foresight and ethical guidance, but leaves **ultimate authority with human representatives**.
+The guiding principle is:
 
----
+> AI is a force to realize humanity's will, not a ruler.
 
-## 📖 Full Proposal
-The full detailed specification is available here:  
-👉 [proposal.md](proposal.md)
+## Main components
 
----
+- **Federated AI nodes:** national or regional systems trained on local languages, laws, cultural context, and citizen input.
+- **Mass participation:** recurring policy, ethical, and trait-selection interactions with authenticated citizens.
+- **Human representative council:** one representative per country or region, selected with AI assistance according to population-preferred characteristics.
+- **Forecasting and simulation:** AI models policy effects, systemic risks, geopolitical developments, and long-term scenarios.
+- **Human final authority:** AI provides analysis and recommendations but does not make binding political decisions.
+- **Minority protection:** the framework explicitly requires safeguards against simple majoritarian domination.
+- **Transparency and communication:** council decisions are communicated back to citizens through secure, direct channels.
+- **Continuous feedback:** outcomes and public responses feed future training and governance cycles.
 
-## ✨ Key Features
-- **Federated AI Training** with national/regional nodes for cultural and legal compliance  
-- **Mass micro-interactions** where citizens guide policy through secure devices  
-- **Human council selection** based on traits chosen by populations  
-- **Forecasting & consultation** for crises, risks, and systemic foresight  
-- **Transparent policy communication** directly to citizens  
-- **Safeguards**: freedom preservation, minority protection, immutable encoding of human will  
+## Intended outcome
 
----
+The proposal aims at a form of democracy that is continuously informed, globally coordinated, locally federated, and capable of using advanced AI for synthesis and foresight without transferring sovereignty from people to machines.
 
-## 🛡️ Guiding Principles
-- **Freedom Preservation**: AI advises, humans decide  
-- **Minority Protection**: Explicit safeguards against systemic neglect  
-- **Global Representation**: Proportional and inclusive, minimum 51% participation per node  
-- **Immutable Human Will Encoding**: Reinforcement learning permanently tied to human input  
+## Scope
 
----
+This is a conceptual governance proposal. Its feasibility depends on difficult unresolved questions involving representation, privacy, authentication, bias, legitimacy, security, AI alignment, institutional enforcement, and the practical meaning of large-scale collective will.
 
-## 📜 License
-Released under the [MIT License](LICENSE).  
-This project is a **blueprint for exploration**, not an implementation.  
+## License
 
----
+Apache License 2.0.
 
-## 🤝 Contribution
-Contributions, critiques, and refinements are welcome.  
-The goal is to **co-create a framework for the future of global governance**.  
+[Read the full proposal](./proposal.md)
